@@ -34,7 +34,7 @@ export default function Dashboard() {
 
           <div className="space-y-1 px-2">
             <Button variant="default" className="w-full justify-start bg-orange-500 hover:bg-orange-600">
-              대시보드
+              이성대시
             </Button>
             <Button variant="ghost" className="w-full justify-start text-gray-600">
               통계
